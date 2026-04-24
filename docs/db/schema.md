@@ -19,7 +19,7 @@
 - 一覧・詳細表示用の read model
 - query 側はここを見る
 
-## 面談での説明
+## Notes
 
 - `event store は履歴そのものです`
 - `read model は画面表示のために最適化した参照用データです`

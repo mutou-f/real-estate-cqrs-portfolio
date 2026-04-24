@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>Real Estate CQRS Portfolio</h1>
-      <p>Portfolio scaffold for auth, CQRS, and event sourcing.</p>
+      <h1>Real Estate Application Review System</h1>
+      <p>Authentication, application workflow, and event-driven audit history.</p>
     </main>
   );
 }
