@@ -1,0 +1,9 @@
+{
+  "name": "real-estate-cqrs-portfolio",
+  "private": true,
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "dev:web": "echo web app placeholder",
+    "dev:api": "echo api app placeholder"
+  }
+}
